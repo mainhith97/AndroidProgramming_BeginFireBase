@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "224672182086",
+    "firebase_url": "https://androidfirebase-bfb08.firebaseio.com",
+    "project_id": "androidfirebase-bfb08",
+    "storage_bucket": "androidfirebase-bfb08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224672182086:android:e2d144f532031598",
+        "android_client_info": {
+          "package_name": "nhitruong.com.firebasebegin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224672182086-01pevu10eufit33l8vk5rvu4d4nj3beq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJLLf_xkvOy1qXbAsdrOBbnNmMPfqIJCI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
